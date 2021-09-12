@@ -22,8 +22,11 @@ YOUR_SHEET_NAME_HERE
 
 ### Install package
 `sudo apt-get update`
+
 `sudo apt-get upgrade`
+
 `sudo pip3 install gspread oauth2client`
+
 `sudo pip3 install -–upgrade google-auth-oauthlib`
 
 ### Assign execution permissions
