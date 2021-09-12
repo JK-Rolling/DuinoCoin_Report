@@ -1,6 +1,8 @@
 # DuinoCoin_Report
 Utilize Google spreadsheet to record Duino-Coin earning
 
+### Youtube Tutorial Video
+- https://youtu.be/hKi_yTh-Fpw
 
 ### DuinoCoinTelegramBot:
 - https://github.com/AzagraMac/DuinoCoinTelegramBot
@@ -32,7 +34,4 @@ YOUR_SHEET_NAME_HERE
 `python3 ./duco_report.py <DUCO_BALANCE>`
 
 
-
-
-
-donate DUCO's: azagramac :coffee:
+donate DUCO's: JK_TQVM :coffee:
