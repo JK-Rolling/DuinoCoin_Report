@@ -4,9 +4,6 @@ Utilize Google spreadsheet to record Duino-Coin earning
 ### Youtube Tutorial Video
 - https://youtu.be/hKi_yTh-Fpw
 
-### DuinoCoinTelegramBot:
-- https://github.com/AzagraMac/DuinoCoinTelegramBot
-
 ### Google Spreadsheet:
 - https://sheets.google.com
 
@@ -30,11 +27,16 @@ YOUR_SHEET_NAME_HERE
 `sudo pip3 install -–upgrade google-auth-oauthlib`
 
 ### Assign execution permissions
+`chmod +x duinocoin.sh`
 `chmod +x duco_report.py`
 
 
 ### Launch script
-`python3 ./duco_report.py <DUCO_BALANCE>`
+
+uncomment and update `duco_report.py` file path in `duinocoin.sh`
+`# cd /home/pi/duco_report`
+
+`./duinocoin.sh`
 
 
 donate DUCO's: JK_TQVM :coffee:
